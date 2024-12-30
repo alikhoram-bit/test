@@ -35,5 +35,5 @@ _this is italic_
  ```
 
  <!-- link -->
-[My Website](https://www.mongard.ir/one_part,'my website')
+[My Website](https://www.mongard.ir/one_part,'mywebsite')
 
