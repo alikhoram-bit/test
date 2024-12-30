@@ -5,9 +5,12 @@
 ****Head1
 *****Head1
 ******Head1
-<!-- italic -->
-**this is italic**
-__this is italic__
+<!-- bold-->
+**this is bold**
+__this is bold__
+<!-- italic-->
+*this is italic*
+_this is italic_
 
 <!-- U list -->
 + first
@@ -15,6 +18,7 @@ __this is italic__
     - two
 - second
 * third
+
 
 <!-- O list -->
 
