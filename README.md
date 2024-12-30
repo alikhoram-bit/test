@@ -7,9 +7,11 @@
 ###### Head6
 <!-- bold-->
 **this is bold**
+
 __this is bold__
 <!-- italic-->
 *this is italic*
+
 _this is italic_
 
 <!-- U list -->
