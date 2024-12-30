@@ -24,11 +24,11 @@ _this is italic_
 
 <!-- O list -->
 
-1.first
-    1.one
-    1.two
-2.second
-3.third
+1. first
+    1. one
+    1. two
+2. second
+3. third
 
 <!-- code -->
  ```python
